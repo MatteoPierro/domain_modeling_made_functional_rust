@@ -1,0 +1,10 @@
+[package]
+name = "domain_modeling_made_functional_rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "chapter4"
+path = "src/chapter4.rs"
+
+[dependencies]
