@@ -2,6 +2,7 @@
 name = "domain_modeling_made_functional_rust"
 version = "0.1.0"
 edition = "2021"
+channel = "nightly"
 
 [[bin]]
 name = "chapter4"
